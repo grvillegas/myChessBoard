@@ -1,6 +1,6 @@
 ﻿program myChessBoard;
 { Console application for draw a chess board }
-
+{autor}
 uses
   System.SysUtils;
 
